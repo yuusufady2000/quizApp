@@ -1,0 +1,40 @@
+{
+    "projectss": [
+        { "id": 1,
+    "title": "Entreprenuer",
+    "description": "Entreprenuer quiz",
+    "image": "/images/entreprenuer.webp"
+   
+},
+{
+    "id":2,
+    "title":"Mathematics",
+    "description":"Mathematics quiz",
+    "image":"/images/math.webp"
+},
+{
+    "id":3,
+    "title":"Ethical hacking",
+    "description":"Ethical hacking quiz",
+    "image":"/images/ethical.webp"
+},
+{
+    "id":4,
+    "title":"Data science",
+    "description":"Data science quiz",
+    "image":"/images/data-science.webp"
+},{
+    "id":5,
+    "title":"English studies",
+    "description":"English studies quiz",
+    "image":"/images/english.webp"
+},
+{
+    "id":6,
+    "title":"History",
+    "description":"History quiz",
+    "image":"/images/history.webp"
+}
+  
+    ]
+}

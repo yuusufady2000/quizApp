@@ -1,0 +1,454 @@
+{
+  "quizzes": [
+    {
+      "category": "Entrepreneur",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the primary purpose of a business plan?",
+          "options": ["To secure funding", "To outline business goals and strategies", "To hire employees", "To advertise products"],
+          "answer": "To outline business goals and strategies",
+          "explanation": "A business plan is a formal document that outlines a company's goals, strategies, and roadmap for achieving success."
+        },
+        {
+          "id": 2,
+          "question": "Which of the following is an example of a startup funding source?",
+          "options": ["Bank loans", "Venture capital", "Crowdfunding", "All of the above"],
+          "answer": "All of the above",
+          "explanation": "Startups can raise funds through bank loans, venture capital, crowdfunding, or angel investors."
+        },
+        {
+          "id": 3,
+          "question": "What is a Minimum Viable Product (MVP)?",
+          "options": ["A fully-featured product", "A prototype with only essential features", "A marketing plan", "A financial report"],
+          "answer": "A prototype with only essential features",
+          "explanation": "An MVP is a product with the minimum features necessary to test a concept and gather user feedback."
+        },
+        {
+          "id": 4,
+          "question": "Which skill is crucial for successful entrepreneurship?",
+          "options": ["Creativity", "Risk management", "Networking", "All of the above"],
+          "answer": "All of the above",
+          "explanation": "Entrepreneurs need creativity, risk management, networking, and leadership skills."
+        },
+        {
+          "id": 5,
+          "question": "What is the definition of scalability in business?",
+          "options": ["Ability to increase production cost", "Ability to grow revenue without proportional increase in costs", "Ability to hire more employees", "Ability to reduce market size"],
+          "answer": "Ability to grow revenue without proportional increase in costs",
+          "explanation": "Scalability is the ability of a business to grow and generate revenue efficiently without a linear increase in costs."
+        },
+        {
+          "id": 6,
+          "question": "What is a common reason startups fail?",
+          "options": ["Lack of market demand", "Poor management", "Running out of cash", "All of the above"],
+          "answer": "All of the above",
+          "explanation": "Startups often fail due to lack of demand, poor management, cash flow issues, or inability to scale."
+        },
+        {
+          "id": 7,
+          "question": "What is a pivot in entrepreneurship?",
+          "options": ["Changing the business model or product strategy", "Hiring new employees", "Securing a loan", "Creating a new logo"],
+          "answer": "Changing the business model or product strategy",
+          "explanation": "A pivot occurs when a startup changes its direction, strategy, or product based on market feedback."
+        },
+        {
+          "id": 8,
+          "question": "Which of the following describes an angel investor?",
+          "options": ["A friend who gives advice", "A professional investor providing capital to early-stage startups", "A government official", "A competitor"],
+          "answer": "A professional investor providing capital to early-stage startups",
+          "explanation": "Angel investors provide financial support to startups in exchange for equity or convertible debt."
+        },
+        {
+          "id": 9,
+          "question": "What is a revenue model?",
+          "options": ["A forecast of employee salaries", "A plan for generating income from business activities", "A customer support system", "A product design method"],
+          "answer": "A plan for generating income from business activities",
+          "explanation": "A revenue model explains how a company will earn money from its products or services."
+        },
+        {
+          "id": 10,
+          "question": "Why is market research important for entrepreneurs?",
+          "options": ["To understand competitors and customers", "To determine product viability", "To make informed decisions", "All of the above"],
+          "answer": "All of the above",
+          "explanation": "Market research helps entrepreneurs understand their audience, validate ideas, and make better business decisions."
+        }
+      ]
+    },
+    {
+      "category": "Mathematics",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the derivative of x²?",
+          "options": ["x", "2x", "x²", "1"],
+          "answer": "2x",
+          "explanation": "The derivative of x² with respect to x is 2x."
+        },
+        {
+          "id": 2,
+          "question": "What is the value of π approximately?",
+          "options": ["3.14", "2.71", "1.62", "4.14"],
+          "answer": "3.14",
+          "explanation": "The value of π (pi) is approximately 3.14159, commonly rounded to 3.14."
+        },
+        {
+          "id": 3,
+          "question": "What is 7 × 8?",
+          "options": ["54", "56", "58", "64"],
+          "answer": "56",
+          "explanation": "7 multiplied by 8 equals 56."
+        },
+        {
+          "id": 4,
+          "question": "What is the square root of 144?",
+          "options": ["10", "12", "14", "16"],
+          "answer": "12",
+          "explanation": "The square root of 144 is 12."
+        },
+        {
+          "id": 5,
+          "question": "What is the sum of angles in a triangle?",
+          "options": ["180°", "90°", "360°", "270°"],
+          "answer": "180°",
+          "explanation": "The sum of the internal angles in any triangle is 180 degrees."
+        },
+        {
+          "id": 6,
+          "question": "Solve: 2x + 5 = 13",
+          "options": ["x = 4", "x = 5", "x = 6", "x = 3"],
+          "answer": "x = 4",
+          "explanation": "2x + 5 = 13 → 2x = 8 → x = 4."
+        },
+        {
+          "id": 7,
+          "question": "What is 10% of 200?",
+          "options": ["10", "20", "25", "50"],
+          "answer": "20",
+          "explanation": "10% of 200 is 0.10 × 200 = 20."
+        },
+        {
+          "id": 8,
+          "question": "What is the next prime number after 7?",
+          "options": ["9", "11", "10", "13"],
+          "answer": "11",
+          "explanation": "The prime number following 7 is 11."
+        },
+        {
+          "id": 9,
+          "question": "What is the factorial of 5?",
+          "options": ["20", "60", "120", "150"],
+          "answer": "120",
+          "explanation": "Factorial of 5 is 5 × 4 × 3 × 2 × 1 = 120."
+        },
+        {
+          "id": 10,
+          "question": "What is the solution to x² - 9 = 0?",
+          "options": ["x = 3", "x = -3", "x = ±3", "x = 0"],
+          "answer": "x = ±3",
+          "explanation": "x² - 9 = 0 → x² = 9 → x = ±3."
+        }
+      ]
+    },
+    {
+      "category": "Ethical hacking",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the main goal of ethical hacking?",
+          "options": ["To steal data", "To exploit vulnerabilities for profit", "To identify security weaknesses legally", "To crash servers"],
+          "answer": "To identify security weaknesses legally",
+          "explanation": "Ethical hackers test systems for vulnerabilities with permission to improve security."
+        },
+        {
+          "id": 2,
+          "question": "Which of these is a common tool used in penetration testing?",
+          "options": ["Metasploit", "Photoshop", "Excel", "Slack"],
+          "answer": "Metasploit",
+          "explanation": "Metasploit is widely used for penetration testing and security auditing."
+        },
+        {
+          "id": 3,
+          "question": "What is a vulnerability in cybersecurity?",
+          "options": ["A software bug that can be exploited", "A firewall setting", "A password policy", "An antivirus program"],
+          "answer": "A software bug that can be exploited",
+          "explanation": "Vulnerabilities are weaknesses in systems that attackers can exploit."
+        },
+        {
+          "id": 4,
+          "question": "What is social engineering in hacking?",
+          "options": ["Attacking the network directly", "Tricking people into revealing confidential information", "Encrypting data", "Writing code faster"],
+          "answer": "Tricking people into revealing confidential information",
+          "explanation": "Social engineering manipulates humans rather than technology to gain access."
+        },
+        {
+          "id": 5,
+          "question": "Which of these is an example of malware?",
+          "options": ["Virus", "Router", "Switch", "Server"],
+          "answer": "Virus",
+          "explanation": "Malware like viruses, worms, and trojans are harmful programs that compromise systems."
+        },
+        {
+          "id": 6,
+          "question": "What is a brute force attack?",
+          "options": ["Guessing passwords systematically", "Using social engineering", "Phishing", "DDoS attack"],
+          "answer": "Guessing passwords systematically",
+          "explanation": "Brute force attacks try all possible combinations to guess passwords."
+        },
+        {
+          "id": 7,
+          "question": "What is SQL Injection?",
+          "options": ["Injecting SQL commands to manipulate databases", "A virus type", "A firewall rule", "Encryption method"],
+          "answer": "Injecting SQL commands to manipulate databases",
+          "explanation": "SQL injection exploits vulnerabilities to execute malicious SQL queries on databases."
+        },
+        {
+          "id": 8,
+          "question": "Which protocol is considered secure for website data transmission?",
+          "options": ["HTTP", "HTTPS", "FTP", "SMTP"],
+          "answer": "HTTPS",
+          "explanation": "HTTPS encrypts data between client and server, providing secure communication."
+        },
+        {
+          "id": 9,
+          "question": "What is a firewall used for?",
+          "options": ["Monitoring and filtering network traffic", "Creating web pages", "Compiling code", "Printing documents"],
+          "answer": "Monitoring and filtering network traffic",
+          "explanation": "Firewalls protect networks by monitoring and controlling incoming and outgoing traffic."
+        },
+        {
+          "id": 10,
+          "question": "Which is a strong password practice?",
+          "options": ["Using 'password123'", "Using long and complex passwords", "Using birthdates", "Using sequential numbers"],
+          "answer": "Using long and complex passwords",
+          "explanation": "Strong passwords combine letters, numbers, symbols, and sufficient length to resist attacks."
+        }
+      ]
+    },
+    {
+      "category": "Data science",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the main goal of data science?",
+          "options": ["To store data", "To extract insights from data", "To delete irrelevant data", "To visualize webpages"],
+          "answer": "To extract insights from data",
+          "explanation": "Data science analyzes data to find trends, patterns, and actionable insights."
+        },
+        {
+          "id": 2,
+          "question": "Which language is most commonly used for data analysis?",
+          "options": ["Python", "HTML", "CSS", "JavaScript"],
+          "answer": "Python",
+          "explanation": "Python has powerful libraries like pandas, NumPy, and scikit-learn for data analysis."
+        },
+        {
+          "id": 3,
+          "question": "What is supervised learning?",
+          "options": ["Learning without labeled data", "Learning with labeled data", "Learning from games", "Unrelated to AI"],
+          "answer": "Learning with labeled data",
+          "explanation": "Supervised learning uses labeled datasets to train models and make predictions."
+        },
+        {
+          "id": 4,
+          "question": "Which is an unsupervised learning technique?",
+          "options": ["Regression", "Clustering", "Classification", "Linear programming"],
+          "answer": "Clustering",
+          "explanation": "Clustering groups data points based on similarity without labeled outputs."
+        },
+        {
+          "id": 5,
+          "question": "What is the purpose of data visualization?",
+          "options": ["To make data pretty", "To communicate insights effectively", "To store data", "To delete old data"],
+          "answer": "To communicate insights effectively",
+          "explanation": "Data visualization helps stakeholders understand patterns, trends, and key findings."
+        },
+        {
+          "id": 6,
+          "question": "Which library is commonly used for plotting in Python?",
+          "options": ["Matplotlib", "React", "Node.js", "Django"],
+          "answer": "Matplotlib",
+          "explanation": "Matplotlib is a widely used Python library for creating static, interactive, and animated visualizations."
+        },
+        {
+          "id": 7,
+          "question": "What is a dataset?",
+          "options": ["A group of related data points", "A type of algorithm", "A network protocol", "A visualization tool"],
+          "answer": "A group of related data points",
+          "explanation": "A dataset is a structured collection of related data used for analysis."
+        },
+        {
+          "id": 8,
+          "question": "What does 'ETL' stand for in data processing?",
+          "options": ["Extract, Transform, Load", "Evaluate, Test, Learn", "Extract, Transfer, Link", "Edit, Transform, Label"],
+          "answer": "Extract, Transform, Load",
+          "explanation": "ETL is the process of extracting data from sources, transforming it into a usable format, and loading it into a database."
+        },
+        {
+          "id": 9,
+          "question": "Which is an example of a classification problem?",
+          "options": ["Predicting house prices", "Predicting if an email is spam", "Calculating sum of numbers", "Sorting a list"],
+          "answer": "Predicting if an email is spam",
+          "explanation": "Classification problems assign data points to discrete categories."
+        },
+        {
+          "id": 10,
+          "question": "What is a feature in machine learning?",
+          "options": ["A characteristic or attribute used for prediction", "A function in Python", "A database table", "A website section"],
+          "answer": "A characteristic or attribute used for prediction",
+          "explanation": "Features are individual measurable properties used as input for ML models."
+        }
+      ]
+    },
+    {
+      "category": "English studies",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Which is a synonym of 'happy'?",
+          "options": ["Sad", "Joyful", "Angry", "Tired"],
+          "answer": "Joyful",
+          "explanation": "A synonym is a word that has the same or similar meaning."
+        },
+        {
+          "id": 2,
+          "question": "Which is an antonym of 'ancient'?",
+          "options": ["Old", "Modern", "Historic", "Classical"],
+          "answer": "Modern",
+          "explanation": "An antonym is a word with the opposite meaning."
+        },
+        {
+          "id": 3,
+          "question": "Choose the correct past tense: 'She ___ to the store.'",
+          "options": ["goes", "went", "gone", "going"],
+          "answer": "went",
+          "explanation": "The correct past tense of 'go' is 'went'."
+        },
+        {
+          "id": 4,
+          "question": "Select the correct plural form: 'Child'",
+          "options": ["Childs", "Children", "Childes", "Childrens"],
+          "answer": "Children",
+          "explanation": "The plural of 'Child' is 'Children'."
+        },
+        {
+          "id": 5,
+          "question": "What is a noun?",
+          "options": ["A person, place, thing, or idea", "A verb", "An adjective", "A pronoun"],
+          "answer": "A person, place, thing, or idea",
+          "explanation": "A noun is a word that represents a person, place, thing, or idea."
+        },
+        {
+          "id": 6,
+          "question": "Identify the verb: 'She runs every morning.'",
+          "options": ["She", "Runs", "Every", "Morning"],
+          "answer": "Runs",
+          "explanation": "The verb is the action word in the sentence."
+        },
+        {
+          "id": 7,
+          "question": "Which is an adjective: 'The quick fox jumps.'",
+          "options": ["The", "Quick", "Fox", "Jumps"],
+          "answer": "Quick",
+          "explanation": "An adjective describes a noun."
+        },
+        {
+          "id": 8,
+          "question": "Choose the correct form: 'I have ___ apples.'",
+          "options": ["much", "many", "little", "few"],
+          "answer": "many",
+          "explanation": "'Many' is used with countable nouns."
+        },
+        {
+          "id": 9,
+          "question": "Select the correct article: '___ orange is sweet.'",
+          "options": ["A", "An", "The", "No article"],
+          "answer": "An",
+          "explanation": "'An' is used before vowel sounds."
+        },
+        {
+          "id": 10,
+          "question": "What is the antonym of 'difficult'?",
+          "options": ["Hard", "Easy", "Tough", "Challenging"],
+          "answer": "Easy",
+          "explanation": "The opposite of 'difficult' is 'easy'."
+        }
+      ]
+    },
+    {
+      "category": "History",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Who was the first President of the United States?",
+          "options": ["Abraham Lincoln", "George Washington", "Thomas Jefferson", "John Adams"],
+          "answer": "George Washington",
+          "explanation": "George Washington served as the first President of the United States from 1789 to 1797."
+        },
+        {
+          "id": 2,
+          "question": "In which year did World War II end?",
+          "options": ["1945", "1939", "1918", "1950"],
+          "answer": "1945",
+          "explanation": "World War II ended in 1945 after the Allied victory."
+        },
+        {
+          "id": 3,
+          "question": "What was the main cause of the American Civil War?",
+          "options": ["Slavery", "Taxation", "Religion", "Colonial expansion"],
+          "answer": "Slavery",
+          "explanation": "The American Civil War was primarily fought over the issue of slavery."
+        },
+        {
+          "id": 4,
+          "question": "Who discovered America in 1492?",
+          "options": ["Christopher Columbus", "Leif Erikson", "Amerigo Vespucci", "Marco Polo"],
+          "answer": "Christopher Columbus",
+          "explanation": "Christopher Columbus is credited with reaching the Americas in 1492 under the Spanish crown."
+        },
+        {
+          "id": 5,
+          "question": "What was the Renaissance?",
+          "options": ["A scientific theory", "A cultural movement in Europe", "A military strategy", "A political system"],
+          "answer": "A cultural movement in Europe",
+          "explanation": "The Renaissance was a period of cultural, artistic, and intellectual revival in Europe from the 14th to 17th century."
+        },
+        {
+          "id": 6,
+          "question": "Which empire was ruled by Julius Caesar?",
+          "options": ["Greek Empire", "Roman Empire", "Egyptian Empire", "Persian Empire"],
+          "answer": "Roman Empire",
+          "explanation": "Julius Caesar was a key leader of the Roman Empire."
+        },
+        {
+          "id": 7,
+          "question": "What was the main purpose of the Silk Road?",
+          "options": ["To transport silk only", "To facilitate trade between Asia and Europe", "To spread disease", "To conduct military operations"],
+          "answer": "To facilitate trade between Asia and Europe",
+          "explanation": "The Silk Road was an ancient network of trade routes connecting the East and West."
+        },
+        {
+          "id": 8,
+          "question": "Who was known as the 'Maid of Orléans'?",
+          "options": ["Marie Curie", "Joan of Arc", "Catherine the Great", "Elizabeth I"],
+          "answer": "Joan of Arc",
+          "explanation": "Joan of Arc was a French heroine and military leader during the Hundred Years' War."
+        },
+        {
+          "id": 9,
+          "question": "What triggered World War I?",
+          "options": ["Assassination of Archduke Franz Ferdinand", "The Great Depression", "Fall of the Berlin Wall", "Industrial Revolution"],
+          "answer": "Assassination of Archduke Franz Ferdinand",
+          "explanation": "The assassination of Archduke Franz Ferdinand of Austria in 1914 triggered World War I."
+        },
+        {
+          "id": 10,
+          "question": "What was the significance of the Magna Carta?",
+          "options": ["It ended World War II", "It limited the power of the king and established rule of law", "It created the United Nations", "It was a scientific treaty"],
+          "answer": "It limited the power of the king and established rule of law",
+          "explanation": "The Magna Carta, signed in 1215, limited royal authority and established legal rights for subjects."
+        }
+      ]
+    }
+  ]
+}
